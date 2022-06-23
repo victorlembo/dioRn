@@ -19,6 +19,7 @@
   - Android Studio
     - Donwload android S
     - Criar um avd (Android Virtual Device)
+  - Expo
 - Criação do projeto
   - Uso do React Native CLI
   - Estrutura de pasta 
